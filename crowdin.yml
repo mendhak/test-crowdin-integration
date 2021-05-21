@@ -1,4 +1,4 @@
 files:
-  - source: /my/translations/qwerty/strings.xml
+  - source: qwerty/strings.xml
     translation: /my/translations/%two_letters_code%/strings.xml
     translate_attributes: 0
