@@ -2,3 +2,5 @@ files:
   - source: /my/translations/qwerty/strings.xml
     translation: /my/translations/%two_letters_code%/strings.xml
     translate_attributes: 0
+  - source: /differentplace/en/intro.txt
+    translation: /differentplace/%two_letters_code%/intro.txt
